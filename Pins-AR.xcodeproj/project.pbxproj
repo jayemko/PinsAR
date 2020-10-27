@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C73B61E25488AA2006D7FA1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3C9B30D02547834B0095632C /* Pins-AR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pins-AR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9B30D32547834B0095632C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C9B30D72547834B0095632C /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		3C9B30C72547834B0095632C = {
 			isa = PBXGroup;
 			children = (
+				3C73B61E25488AA2006D7FA1 /* README.md */,
 				3C9B30D22547834B0095632C /* Pins-AR */,
 				3C9B30D12547834B0095632C /* Products */,
 			);
